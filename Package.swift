@@ -11,7 +11,7 @@ let package = Package(
         .binaryTarget(
             name: "sentencepiece",
             url: "https://github.com/nathansalaun-sofia/sentencepiece/releases/download/0.2.1/libsentencepiece.xcframework.zip",
-            checksum: "d5d66e764147c6fae9b56748da089058ea3affe225291c4b0d12c5174f56343d"
+            checksum: "483fbf026f42cd53836ca1b343c1a5e66489cc828aec5391b465c7a33208afab"
         ),
     ]
 )
